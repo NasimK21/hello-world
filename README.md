@@ -2,4 +2,4 @@
 
 Scholarly & Academic Practice
 
-Is this the exercies we were meant to do?
+Is this the exercises we were meant to do?
